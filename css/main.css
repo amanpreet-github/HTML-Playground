@@ -13,6 +13,7 @@
     height: 80px;
     background-color: #262626;
     overflow: hidden;
+    position: fixed;
 }
 
 .heading-color {
@@ -58,7 +59,7 @@
 
 .hero-pic {
     width: 100%;
-    min-height: 650px;
+    min-height: 100vh;
     float: left;
     display: inline-block;
     background-size: cover;
